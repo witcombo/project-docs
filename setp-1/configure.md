@@ -1,5 +1,5 @@
 ---
-description: THX
+description: THX Key
 ---
 
 # 👏 Configure
